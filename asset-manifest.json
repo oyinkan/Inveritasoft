@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Inveritasoft/static/css/main.26fe46b1.chunk.css",
+    "main.js": "/Inveritasoft/static/js/main.688dc7e1.chunk.js",
+    "main.js.map": "/Inveritasoft/static/js/main.688dc7e1.chunk.js.map",
+    "runtime-main.js": "/Inveritasoft/static/js/runtime-main.24752b97.js",
+    "runtime-main.js.map": "/Inveritasoft/static/js/runtime-main.24752b97.js.map",
+    "static/js/2.a87994b1.chunk.js": "/Inveritasoft/static/js/2.a87994b1.chunk.js",
+    "static/js/2.a87994b1.chunk.js.map": "/Inveritasoft/static/js/2.a87994b1.chunk.js.map",
+    "static/js/3.ea34d3f8.chunk.js": "/Inveritasoft/static/js/3.ea34d3f8.chunk.js",
+    "static/js/3.ea34d3f8.chunk.js.map": "/Inveritasoft/static/js/3.ea34d3f8.chunk.js.map",
+    "index.html": "/Inveritasoft/index.html",
+    "static/css/main.26fe46b1.chunk.css.map": "/Inveritasoft/static/css/main.26fe46b1.chunk.css.map",
+    "static/js/2.a87994b1.chunk.js.LICENSE.txt": "/Inveritasoft/static/js/2.a87994b1.chunk.js.LICENSE.txt",
+    "static/media/facebook.860868e3.png": "/Inveritasoft/static/media/facebook.860868e3.png",
+    "static/media/illustration.3c3a7849.png": "/Inveritasoft/static/media/illustration.3c3a7849.png",
+    "static/media/instagram.e1f7c6e8.png": "/Inveritasoft/static/media/instagram.e1f7c6e8.png",
+    "static/media/twitter.3a9bf15b.png": "/Inveritasoft/static/media/twitter.3a9bf15b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24752b97.js",
+    "static/js/2.a87994b1.chunk.js",
+    "static/css/main.26fe46b1.chunk.css",
+    "static/js/main.688dc7e1.chunk.js"
+  ]
+}
