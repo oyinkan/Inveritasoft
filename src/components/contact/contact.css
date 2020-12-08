@@ -15,7 +15,8 @@ label,
     width: 60%;
 }
 .request,
-label {
+label,
+.form-control {
     color: #b3b8bf;
     font-size: 14px;
     font-weight: 500;
@@ -26,6 +27,7 @@ label {
     border-radius: 2rem;
     height: 45px;
     margin-top: 5px;
+    padding-left: 1.5rem;
 }
 .btn.btn-primary {
     background: #817eff;
